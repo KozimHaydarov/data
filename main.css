@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card__div{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(499deg,#80D8EF, red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div__sad{
+    width:500px ;
+    height: 400px;
+    background-color:white;
+    padding: 35px; 
+    box-shadow:#4285F3 20px 1px ;
+}
+.sad__title{
+    color: #4285F3;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 10px;
+}
+.rukiya{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    margin-top: 6px;
+}
+
+.input{
+    width: 100%;
+    height: 30px;
+    border: 1px solid #aaa;
+    margin-top:5px ;
+
+} 
+.qar{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: 400;
+}
+.warior{
+    color: dodgerblue;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 14px;
+    display: block;
+    text-align: right;
+}
+.btn{
+    width:100% ;
+    height: 38px;
+    margin-top: 24px;
+    border: none;
+    background-image: linear-gradient(499deg, dodgerblue, violet);
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
